@@ -7,8 +7,10 @@
  * Calculation of Net Salary:
  * Net Salary = Gross Salary - (Employee's contribution to PF +   Income Tax and other deductions, if applicable)
  *
- * @author: Gamachu
- * @date:
+ * @author: Gamachu (2175052)
+ * @date: Jul 28, 2023 (Fri) 
+ * @lab2: KIIT, Campus 1 (SCA)
+ * @instructor: Mr. Abinash Tripathy
  */
  
  class Salary {
