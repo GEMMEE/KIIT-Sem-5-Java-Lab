@@ -9,7 +9,7 @@
  *    using proper formula.
  *
  * @author: Gamachu (2175052)
- * @date: Aug 01 2023 (Tue)
+ * @date: Aug 01, 2023 (Tue)
  * @lab3: KIIT, Campus 1 (SCA)
  * @instructor: Mr. Abinash Tripathy 
  */
