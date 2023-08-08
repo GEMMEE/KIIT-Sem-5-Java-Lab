@@ -10,8 +10,10 @@
  *      The area of Triangle with base and height is
  *      The area of Rectangle with length and breadth is
  *
- * @author: Gamachu
- * @date:
+ * @author: Gamachu (2175052)
+ * @date: Jul 28, 2023 (Tue)
+ * @lab2: KIIT, Campus 1 (SCA)
+ * @instructor: Mr. Abinash Tripathy
  */
  
  class Shapes {
