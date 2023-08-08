@@ -3,7 +3,7 @@
  * Also declare suitable variable to store the result.
  * 
  * @author: Gamachu (2175052)
- * @date: Jul 25 2023 (Tues)
+ * @date: Jul 25, 2023 (Tue)
  * @lab1: KIIT, Campus 1 (sca)
  * @instructor: Mr. Abinash Tripathy 
  */

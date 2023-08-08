@@ -11,7 +11,7 @@
  *
  * @author: Gamachu (2175052)
  * @date: Jul 28, 2023 (Fri)
- * @lab2: KIIT, Campus 1 (sca)
+ * @lab2: KIIT, Campus 1 (SCA)
  * @instructor: Mr. Abinash Tripathy
  */
  import java.util.Scanner;
